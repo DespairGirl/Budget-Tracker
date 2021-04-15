@@ -6,11 +6,11 @@
     "background_color": "#ffffff",
     "description": "Online/Offline budget tracking",
     "icons": [{
-      "src": "/Develop/public/icons/icon-192X192.png",
+      "src": "/public/icons/icon-192x192.png",
       "sizes": "192X192",
       "type": "image/png"
     }, {
-        "src": "/Develop/public/icons/icon-512X512.png",
+        "src": "/Develop/public/icons/icon-512x512.png",
         "sizes": "512X512",
         "type": "image/png"
     }]
