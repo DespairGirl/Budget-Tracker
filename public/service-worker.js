@@ -6,8 +6,8 @@ const FILE_TO_CACHE = [
     "/public/manifest.json",
     "/public/service-worker.js",
     "/public/styles.css",
-    "/public/icons/icon-192x192.png",
-    "/public/icons/icon-512x512.png"
+    "/icons/icon-192x192.png",
+    "/icons/icon-512x512.png"
 ];
 
 const CACHE_VERSION = "static-cache-v1";
